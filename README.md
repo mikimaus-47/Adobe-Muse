@@ -209,4 +209,4 @@ This repository serves as the official landing page for Adobe Muse. The software
 **Get the most recent version of Adobe Muse today!**
 
 ---
-**Last updated:** 2026-11-14 09:57:36 UTC
+**Last updated:** 2026-11-14 16:30:30 UTC
